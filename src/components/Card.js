@@ -5,9 +5,9 @@ export default class Card extends Component {
     const {img,title,text} = this.props;
     return (
       <div>
-        <img src={require('../assets/img/'+ img+'.png' )} alt={this.props.title}/>
-        <h2>{this.props.title}</h2>
-        <p>{this.props.text}</p>
+        <img src={require('../assets/img/'+ img+'.png' )} alt={title}/>
+        <h2>{title}</h2>
+        <p>{text}</p>
       </div>
     );
   }

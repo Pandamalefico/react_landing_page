@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import List from './List';
-import Logo from '../assets/img/BC_ke_3.png';
+import Logo from '../assets/img/logo.png';
 
 export default class Header extends Component {
   render(){
