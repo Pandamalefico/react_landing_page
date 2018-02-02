@@ -2,12 +2,18 @@ import React, { Component } from "react";
 
 export default class Card extends Component {
   render(){
-    const {img,title,text} = this.props;
+    const itemsList = this.props.items.map((item, i)=>{
+      return (
+        <div key={i}>
+          <img src={require('../assets/img/'+item.img+'.png')} alt={item.title}/>
+          <h2>{item.title}</h2>
+          <p>{item.text}</p>
+        </div>
+      )
+    });
     return (
-      <div>
-        <img src={require('../assets/img/'+ img+'.png' )} alt={title}/>
-        <h2>{title}</h2>
-        <p>{text}</p>
+      <div className="card-container">
+        {itemsList}
       </div>
     );
   }

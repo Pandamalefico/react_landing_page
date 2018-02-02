@@ -4,6 +4,7 @@ import Header from './components/Header';
 import LandingSect from './components/LandingSect';
 import WeDoSect from './components/WeDoSect';
 import WorksSect from './components/WorksSect';
+import ServicessSect from './components/ServicesSect';
 
 class App extends Component {
   render() {
@@ -12,7 +13,8 @@ class App extends Component {
         <Header />
         <LandingSect id='Landing-Sect'/>
         <WeDoSect id='WeDo-Sect'/>
-        <WorksSect />
+        <WorksSect id='Work-Sect'/>
+        <ServicessSect id='Services-Sect'/>
       </div>
     );
   }

@@ -1,8 +1,42 @@
 [
   {
-    "img": "",
-    "title": "",
-    "text": ""
+    "img": "fly_site",
+    "title": "Plane Air",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
   },
-  {}
+  {
+    "img": "food_site",
+    "title": "Los Pollos Ermanos",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
+  },
+  {
+    "img": "gym_site",
+    "title": "Work Out",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
+  },
+  {
+    "img": "health_site",
+    "title": "Healthy First",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
+  },
+  {
+    "img": "hostel_site",
+    "title": "Rest Peacefully",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
+  },
+  {
+    "img": "photography_site",
+    "title": "Souls Stealer",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
+  },
+  {
+    "img": "watch_site",
+    "title": "Late Brothers Inc.",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
+  },
+  {
+    "img": "yatch_site",
+    "title": "Drown your money",
+    "text": "Tsathoggua chtenff kn'a ron naah, y'hah f'gof'nn ch'."
+  }
 ]

@@ -14,3 +14,19 @@ header{
 #WeDo-Sect {
   background: green;
 }
+
+#Works-Sect {
+  background: pink;
+}
+#Works-Sect img {
+  width: 100px;
+}
+
+#Services-Sect {
+  background: grey;
+}
+
+#Services-Sect header {
+  background: inherit;
+}
+ 
